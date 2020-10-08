@@ -1,0 +1,47 @@
+.options {
+    padding: 20px;
+    background-color: rgba(191, 191, 191, 0.15);
+    margin-top: 20px;
+}
+
+.option {
+    margin-top: 10px;
+}
+
+.caption {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.option > span {
+    margin-right: 10px;
+}
+
+.option > .dx-widget {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#chart {
+    height: 440px;
+    width: 640px;
+}
+
+   
+.bblock{
+    float: left;
+    height: 440px;
+      
+    /* color: white; */
+    margin-top: 150px;
+    
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+
+}
+.bblock:first-child {
+position: absolute;
+
+}
